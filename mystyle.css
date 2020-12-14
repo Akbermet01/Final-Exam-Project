@@ -40,25 +40,25 @@ position:absolute;
 
 .span1{
  clip-path:polygon(0 92%, 100% 50%, 0 8%);
- background-color: #ffeb3b;
+ background-color: #ff6699;
  top: 120px;
  left: 0;
 }
 .span2{
  clip-path:polygon(100% 92%, 0 50%, 100% 8%);
- background-color: #ffeb3b;
+ background-color: #00cc00;
  top: 120px;
  right: 0;
 }
 .span3{
  clip-path:polygon(50% 0%, 8% 100%, 92% 100%);
- background-color: #ffeb3b;
+ background-color: #9999ff;
  bottom:0;
  left: 120px;
 }
 .span4{
  clip-path:polygon(50% 100%, 92% 0 ,8% 0);
- background-color: #ffeb3b;
+ background-color: #ffcc66;
  top: 0;
  left: 120px;
 }
