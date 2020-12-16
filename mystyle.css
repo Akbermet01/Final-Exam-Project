@@ -7,14 +7,13 @@
 }
 
 body{
-   background-color:white;
     font-family: 'Roboto Condensed', sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
     overflow: hidden;
-    background: #00e6e6;
+    background: #1a53ff;
     background-size: cover;
 }
 .main{
@@ -55,7 +54,7 @@ position: absolute;
 
 .span1{
 clip-path: polygon(0 92%, 100% 50%, 0 8%);
-background-color: #003d99;
+background-color: #00e600;
 top: 120px;
 left: 0;
 }
