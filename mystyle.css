@@ -21,7 +21,7 @@ p{
 }
 
 body{
-  Background-color:#0066cc;
+  background-color:#0066cc;
 }
 
 .wheel{
@@ -31,7 +31,7 @@ body{
     align-items: center;
     height: 100vh;
     overflow: hidden;
-    background: #1a53ff;
+    background-color: #0066cc;
     background-size: cover;
 }
 
@@ -118,26 +118,23 @@ transform: translate(-50%, -50%);
 }
 
 .spin{
-    font-family: 'Roboto Condensed', sans-serif;
+    background-image:url("../images/alatoo-logo.png");
+    background-size:69px;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 70px;
+    width: 75px;
     height: 75px;
     border-radius: 50%;
     border: 2px solid white;
-    background-color: rgb(46, 77, 77);
-    color: #fff;
     box-shadow: 0 10px 15px #000;
-    font-weight: bold;
-    font-size: 22px;
-    cursor: pointer;
+
 }
 
 .spin:active{
-    width: 65px;
-    height: 60px;
+    width: 75px;
+    height: 75px;
     font-size: 20px;
 }
 
