@@ -46,7 +46,7 @@ height: 500px;
     content: '';
     width: 35px;
     height: 35px;
-    background: url('https://www.pngitem.com/pimgs/m/78-789436_brand-logo-line-angle-transparent-background-arrow-left.png') no-repeat;
+    background: url('../images/left-errow.png') no-repeat;
     background-size: 37px;
     right: -40px;
     top: 50%;
