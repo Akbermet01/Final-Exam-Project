@@ -46,7 +46,7 @@ height: 500px;
     content: '';
     width: 35px;
     height: 35px;
-    background: url('../images/left-errow.png') no-repeat;
+    background: url('/images/left-errow.png') no-repeat;
     background-size: 37px;
     right: -40px;
     top: 50%;
