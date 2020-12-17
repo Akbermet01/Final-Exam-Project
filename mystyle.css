@@ -46,7 +46,7 @@ height: 500px;
     content: '';
     width: 35px;
     height: 35px;
-    background-image: url("../images/left-errow.png") no-repeat;
+    background-image: url("images/left-errow.png") no-repeat;
     background-size: 37px;
     right: -40px;
     top: 50%;
@@ -118,7 +118,7 @@ transform: translate(-50%, -50%);
 }
 
 .spin{
-    background-image:url("../images/alatoo-logo.png");
+    background-image:url("images/alatoo-logo.png");
     background-size:69px;
     position: absolute;
     width: 75px;
