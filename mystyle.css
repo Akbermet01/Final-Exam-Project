@@ -21,7 +21,7 @@ p{
 }
 
 body{
-  background-color:#0066cc;
+  background-color:#00e6e6;
 }
 
 .wheel{
@@ -31,7 +31,7 @@ body{
     align-items: center;
     height: 100vh;
     overflow: hidden;
-    background-color: #0066cc;
+    background-color: #00e6e6;
     background-size: cover;
 }
 
