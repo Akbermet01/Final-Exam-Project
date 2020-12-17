@@ -1,7 +1,4 @@
-
-
-
-  var firebaseConfig = {
+var firebaseConfig = {
     apiKey: "AIzaSyDma8Zvm9eHxaiLIp0YOLyFV_FNSZSU9Uk",
     authDomain: "wheel-of-fortune-dadae.firebaseapp.com",
     projectId: "wheel-of-fortune-dadae",
