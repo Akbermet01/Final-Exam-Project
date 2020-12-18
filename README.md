@@ -12,4 +12,4 @@ We want them to be rewarded with prizes and motivated in their studies.
 - 'images' file
 - myscript.js
 - mystyle.css
-**are added***
+**are added**
