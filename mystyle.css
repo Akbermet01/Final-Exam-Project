@@ -45,7 +45,8 @@ body{
     content: '';
     width: 35px;
     height: 35px;
-    background-image: url("images/left-errow.png") no-repeat;
+    background-image: url("images/left-errow.png") ;
+    background-repeat:no repeat;
     background-size: 37px;
     right: -40px;
     top: 50%;
