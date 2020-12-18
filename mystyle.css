@@ -58,7 +58,7 @@ width: 100%;
 height: 100%;
 position: relative;
 border-radius: 50%;
-border: 15px solid #ffdb4d;
+border: 15px solid white;
 overflow: hidden;
 transition: all ease 3s;
 
