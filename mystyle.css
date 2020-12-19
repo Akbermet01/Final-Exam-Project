@@ -43,11 +43,11 @@ body{
 .main:after{
     position: absolute;
     content: '';
-    width: 35px;
-    height: 35px;
+    width: 40px;
+    height: 40px;
     background-image: url("images/left-errow.png") ;
     background-repeat:no-repeat;
-    background-size: 37px;
+    background-size: 40px;
     right: -40px;
     top: 50%;
     transform: translateY(-50%);
