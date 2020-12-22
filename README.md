@@ -13,3 +13,6 @@ We want them to be rewarded with prizes and motivated in their studies.
 - myscript.js
 - mystyle.css
 **are added**
+
+##### Screenshot
+![descr](https://i.imgur.com/yFjh6ei.png)
