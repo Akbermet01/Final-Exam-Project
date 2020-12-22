@@ -31,5 +31,5 @@ var y = 9999;
         element.classList.add('animate');
     
     }, 3000);
-    }
+}
     
